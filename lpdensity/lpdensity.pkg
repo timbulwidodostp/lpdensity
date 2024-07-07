@@ -1,5 +1,21 @@
-d 'DEA': Data envelopment analysis
+d 'lpdensity': local polynomial distribution/density regression methods estimation and inference Use lpdensity With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lpbwdensity.ado
+f lpbwdensity.sthlp
+f lpdensity.ado
+f lpdensity.sthlp
+f lpdensity_bwimse.mo
+f lpdensity_bwirot.mo
+f lpdensity_bwmse.mo
+f lpdensity_bwrot.mo
+f lpdensity_cgen.mo
+f lpdensity_fn.mo
+f lpdensity_ggen.mo
+f lpdensity_normdgp.mo
+f lpdensity_optfunc.mo
+f lpdensity_quantile.mo
+f lpdensity_rep.mo
+f lpdensity_sgen.mo
+f lpdensity_tgen.mo
+f lpdensity_unique.mo
+f lpdensity_whichmin.mo
