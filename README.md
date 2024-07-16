@@ -1,6 +1,8 @@
 # lpdensity
 Local polynomial distribution/density regression methods estimation and inference Use lpdensity With STATA 18
 
+https://www.youtube.com/watch?v=zdIJ1mOKDaY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
